@@ -1,0 +1,4 @@
+- name: blog-box
+  # You may pin to the exact commit or the version.
+  # uses: Aveek-Saha/blog-box@9cbe6d603df0b1dde801fec36dd857eedc733445
+  uses: Aveek-Saha/blog-box@v2
